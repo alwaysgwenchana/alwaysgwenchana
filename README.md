@@ -2,7 +2,7 @@
 
 # I'm Gwen
 
-I'm a BSIT student majoring in **Computer Networks**, still figuring things out and loving the journey. 🚀  
+I'm a BSIT student majoring in **Computer Networks**, still figuring things out and loving the journey. 
 I’m all about learning new tech, messing around with networking tools, and slowly leveling up my skills.
 
 ![we have technology](https://github.com/alwaysgwenchana/alwaysgwenchana/blob/main/patrick.gif) 
@@ -13,8 +13,7 @@ I’m all about learning new tech, messing around with networking tools, and slo
 
 - Networking basics with Cisco & Packet Tracer  
 - Diving into cybersecurity (still a newbie!)  
-- Exploring cloud stuff — AWS and Azure, for starters  
-- Tools like Wireshark, Git, and VS Code
+- Tools like VS Code Xammp Javascript
 
 ![Tech Exploration](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
