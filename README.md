@@ -1,12 +1,11 @@
 ## Anneonghaseyo Yeorubon!! 
 
-# Hey there! 👋 I'm Gwen
+# I'm Gwen
 
 I'm a BSIT student majoring in **Computer Networks**, still figuring things out and loving the journey. 🚀  
 I’m all about learning new tech, messing around with networking tools, and slowly leveling up my skills.
 
-![Girl Coding](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTd4amZtaHF3Y2FuazR0eWlrdGZtcTR0cDlhMHJ2ZTZjZXpwMGZ6NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ohs4BSacFKI7A717y/giphy.gif)
-
+![we have technology](https://github.com/alwaysgwenchana/alwaysgwenchana/blob/main/patrick.gif) 
 
 ---
 
